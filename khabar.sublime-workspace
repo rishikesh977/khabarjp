@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tag",
+				"strip_tags"
+			],
+			[
+				"th",
+				"thumbnail-medium"
+			],
+			[
+				"featu",
+				"featured-medium"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"category",
+				"category_name"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"qu",
+				"questionsLeft"
+			],
+			[
+				"q",
+				"questionsLeft"
+			],
+			[
+				"ser",
+				"serverpass"
+			],
+			[
+				"re",
+				"req1	require_once …"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"search",
+				"search-section"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/templates/header-top-navbar.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/nepalitimes/lib/scripts.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/nepalitimes/templates/head.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/nepalitimes/testnepalitimes.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/nepalitimes/base.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/base.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/nepalitimes/templates/header-top-navbar.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/style.css",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/nepalitimes/style.css",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/roots-khabar/templates/header-top-navbar.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/nepalitimes/templates/page-header.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/roots/templates/head.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/roots/lib/config.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/templates/content-single.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/templates/breadcrumb.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/templates/content.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/templates/footer.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/homepage.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/functions.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/roots-khabar/functions.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/roots-khabar/base.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/assets/js/main.js",
+		"/D/Temp/latest_temp_transfer/htdocs/portfolio_wpgit/wp-includes/locale.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/view/block/page/trykhabar",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/view/block/page/homepage.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/khabar.sublime-project",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/templates/head.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/roots-khabar/lib/scripts.php",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/assets/fa/css/font-awesome.min.css",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/assets/fa/css/font-awesome.css",
+		"/C/Users/suku/Dropbox/htdocs/khabarjp/wp-content/themes/khabar/lib/scripts.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/view/block/page/homepage.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/style.css",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/single.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/homepage.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/functions.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/base.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/learn-roots.sublime-project",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/nepalitimes.sublime-project",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/view/block/page/trykhabar",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/templates/header-top-navbar.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/assets/bootstrap/css/bootstrap-responsive.min.css",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/roots-khabar/lib/scripts.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-config.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-content/themes/roots/lib/scripts.php",
+		"/C/Users/suku/Dropbox/htdocs/nepalitimes/wp-includes/update.php",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/lib/scripts.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/templates/head.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/test.php",
+		"/C/Users/suku/Dropbox/htdocs/learn-roots/wp-content/themes/khabar/templates/content.php",
+		"/D/office/Imp_Desktop/web_templates/khaba.jp_site/khabar/content.php",
+		"/D/office/Imp_Desktop/web_templates/khaba.jp_site/khabar/homepage.php",
+		"/D/office/Imp_Desktop/web_templates/khaba.jp_site/khabar/gallery-carousel.php",
+		"/C/xampp/htdocs/tutorial/html/webDevUdemy/destination.html",
+		"/C/xampp/htdocs/tutorial/html/webDevUdemy/index.html",
+		"/C/xampp/htdocs/tutorial/html/webDevUdemy/example.html",
+		"/C/xampp/htdocs/tutorial/html/webDevUdemy/global.css",
+		"/C/xampp/htdocs/tutorial/javascript/treehouse/index.html",
+		"/E/Media files/video/torrent_download/WORDPRESS/Xone v1.5 - Clean One Page Wordpress Theme/Theme Files/xone/functions.php",
+		"/E/Media files/video/torrent_download/WORDPRESS/Xone v1.5 - Clean One Page Wordpress Theme/Theme Files/xone/comments.php",
+		"/E/Media files/video/torrent_download/WORDPRESS/Xone v1.5 - Clean One Page Wordpress Theme/Theme Files/xone/style.css",
+		"/C/xampp/htdocs/tutorial/tutorial.sublime-project",
+		"/C/xampp/htdocs/tutorial/html/webDev1/index.html",
+		"/C/Users/suku/Desktop/index.html",
+		"/C/xampp/htdocs/learn-javascript/treehouse/scripts.js",
+		"/C/xampp/htdocs/learn-javascript/treehouse/story.js",
+		"/C/xampp/htdocs/learn-javascript/treehouse/index.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/learn-javascript/treehouse/script",
+		"/C/xampp/htdocs/learn-javascript/learn-javascript.sublime-project",
+		"/D/Temp/latest_temp_transfer/htdocs/wp_learn/wp-content/themes/roots/lib/config.php",
+		"/D/Temp/latest_temp_transfer/htdocs/wp_learn/wp-content/themes/roots/lib/extras.php",
+		"/D/Temp/latest_temp_transfer/htdocs/wp_learn/wp-content/themes/roots/lib/gallery.php",
+		"/D/Temp/latest_temp_transfer/htdocs/wp_learn/wp-content/themes/roots/functions.php",
+		"/C/Users/suku/Desktop/test.html",
+		"/C/xampp/htdocs/learn-roots/wp-content/themes/roots-khabar/templates/footer.php",
+		"/C/xampp/htdocs/learn-roots/wp-content/themes/roots-khabar/templates/header-top-navbar.php",
+		"/C/xampp/htdocs/learn-roots/wp-content/themes/roots-khabar/functions.php",
+		"/E/Media files/video/torrent_download/WORDPRESS/Lynda - Creating a Photo Gallery in WordPress with jQuery/Exercise Files/Free/2 - Files to add/gallery.js",
+		"/E/Media files/video/torrent_download/WORDPRESS/Lynda - Creating a Photo Gallery in WordPress with jQuery/Exercise Files/Free/2 - Files to add/gallery.css",
+		"/E/Media files/video/torrent_download/WORDPRESS/Lynda - Creating a Photo Gallery in WordPress with jQuery/Exercise Files/2 - Files to add/gallery.js",
+		"/E/Media files/video/torrent_download/WORDPRESS/Lynda - Creating a Photo Gallery in WordPress with jQuery/Exercise Files/2 - Files to add/gallery.css",
+		"/C/Users/suku/Desktop/car-pooling/wp-config.php",
+		"/C/Users/suku/Desktop/wp-config-sample.php",
+		"/C/xampp/htdocs/tibeta/system/application/config/database.php",
+		"/C/xampp/htdocs/tibeta/system/application/config/config.php",
+		"/C/xampp/htdocs/tibeta/system/application/config/autoload.php",
+		"/C/xampp/htdocs/tibet/system/application/controllers/tibet.php",
+		"/C/Users/suku/Desktop/wp-config.php",
+		"/C/xampp/htdocs/learn/php/test.php",
+		"/C/xampp/htdocs/learn/php/name.html",
+		"/C/xampp/htdocs/learn/php/name.php",
+		"/C/xampp/htdocs/tibeta/system/application/config/routes.php",
+		"/C/xampp/htdocs/tibet/system/application/config/config.php",
+		"/C/xampp/htdocs/tibet/system/application/config/database.php",
+		"/C/xampp/htdocs/tibet/system/application/views/tibet_reservation_view.php",
+		"/C/xampp/htdocs/tibet/system/application/views/header.php",
+		"/C/xampp/htdocs/php-website/connect.php",
+		"/C/xampp/htdocs/car-share/wp-content/themes/car-share/header.php",
+		"/C/xampp/htdocs/car-share/wp-content/themes/car-share/index.php",
+		"/C/xampp/htdocs/car-share/wp-content/themes/car-share/page-register.php",
+		"/C/xampp/htdocs/car-share/wp-content/themes/car-share/page-regprocess.php",
+		"/C/xampp/htdocs/php-website/index.html",
+		"/C/xampp/htdocs/bootstrap-site/index.html",
+		"/D/suku/5officework(Jsoft)/codes/tibet/home.php",
+		"/C/xampp/htdocs/bootstrap-site/css/style.css",
+		"/C/xampp/htdocs/php-website/home.php",
+		"/C/xampp/htdocs/php-website/fail.php",
+		"/C/xampp/htdocs/learn_wp/wp-content/plugins/front-to-back/plugin.php",
+		"/D/Temp/latest_temp_transfer/htdocs/wp_learn/wp-content/themes/twentyfourteen/functions.php",
+		"/C/xampp/htdocs/car-share/wp-content/themes/car-share/page-register-process.php",
+		"/C/xampp/htdocs/learn-php/car-share/header.php",
+		"/C/xampp/htdocs/learn-php/crud/config.php",
+		"/C/xampp/htdocs/learn-php/car-share/register-process.php",
+		"/C/xampp/htdocs/learn-php/autocomplete-geocode.php",
+		"/C/xampp/htdocs/learn-php/car-share/register.php",
+		"/C/xampp/htdocs/learn-php/car-share/style.css",
+		"/C/xampp/htdocs/learn-php/crud/html5-autocomplete.html",
+		"/C/xampp/htdocs/car-share/wp-content/themes/car-share/front-page.php",
+		"/C/xampp/htdocs/car-share/wp-content/themes/car-share/functions.php",
+		"/C/xampp/htdocs/learn-php/crud/index.php",
+		"/C/xampp/htdocs/learn-php/crud/regprocess.php",
+		"/C/xampp/htdocs/learn-php/crud/insertform.php",
+		"/C/xampp/htdocs/learn-php/car-share/index.php",
+		"/C/xampp/htdocs/learn-php/car-share/config.php"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\suku\\Dropbox\\htdocs\\learn-roots\\wp-content\\themes",
+			"<project>",
+			"C:\\xampp\\htdocs\\learn-wp",
+			"C:\\xampp\\htdocs\\learn-roots\\wp-content\\themes\\khabar",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"khabar",
+			"font",
+			"template name",
+			"get_template_directory_uri",
+			"database_name_here",
+			"featured-medium",
+			"wide",
+			"featured",
+			"350",
+			"tab",
+			"size",
+			"कञ्चनपुर",
+			"tags",
+			"i",
+			"district",
+			"echo",
+			"medium",
+			"20",
+			"href=\"<?php;?>\"",
+			"tag=alert-news",
+			"<?php the_title(); ?>",
+			"href=\"<?php;?>",
+			"jquery",
+			"bootstrap.min.css",
+			"?>\n",
+			"?>",
+			"बाँकी अंश",
+			"बाँकी अंश »",
+			"meal",
+			"radio",
+			"date",
+			"HTML",
+			"suku",
+			"R_saryIfF1Oc",
+			"AboCut",
+			"user",
+			"result",
+			"<?php \n			$user = $_POST['user'];\n			$password= $_POST['password'];\n\n			if($user == \"suku\" && $password == \"suku123\"){\n				echo \"Welcome \". $user.\"!!!\";\n				\n			}\n			else{\n				echo \"Sorry this is not your page.\";\n				header('location: fail.php');\n			}\n\n\n\n		?>",
+			"suku123",
+			"suku",
+			"password",
+			"firstname",
+			"fname",
+			"firstname",
+			"fname",
+			"password",
+			"\">",
+			"password",
+			"username",
+			"members",
+			"sucess",
+			"wpdb",
+			"form",
+			"?>",
+			"fped",
+			"username_here",
+			"database_name_here",
+			"breadcrumb",
+			"sidebar",
+			"../",
+			"'>\n",
+			"../",
+			"style",
+			"ध",
+			"ब",
+			"widget-inner",
+			"div",
+			"wp",
+			"ifn",
+			"relative",
+			"contact",
+			"suku",
+			"links",
+			"norma",
+			"projects",
+			"section",
+			"facebook"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nepalitimes",
+			"thumbnail-medium",
+			"15",
+			"href=\"<?php bloginfo('url');?>/",
+			"category_name=",
+			"<a href=\"<?php the_permalink();?>\"><?php the_title();?></a>",
+			"<?php bloginfo('url');?>",
+			"<?php bloginfo('template_directory');?>/assets/",
+			"anjali"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 73.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"learn-roots/wp-content/themes/khabar/assets/bootstrap/css/bootstrap-responsive.min.css"
+			],
+			[
+				"learn-r",
+				"learn-roots/learn-roots.sublime-project"
+			],
+			[
+				"tree",
+				"javascript/treehouse/index.html"
+			],
+			[
+				"t",
+				"tutorial.sublime-project"
+			],
+			[
+				"l",
+				"learn-javascript.sublime-project"
+			],
+			[
+				"fun",
+				"movebox-roots/wp-includes/functions.php"
+			],
+			[
+				"breadcrumb.php",
+				"khabar/templates/breadcrumb.php"
+			],
+			[
+				"tets",
+				"portfolio_wp/wp-content/themes/portfolio/js/getSupportedSitesJSON.action"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"n",
+				"/home/suku/Dropbox/htdocs/nepalitimes/nepalitimes.sublime-project"
+			],
+			[
+				"k",
+				"/home/suku/Dropbox/htdocs/khabarjp/khabar.sublime-project"
+			],
+			[
+				"ne",
+				"/C/Users/suku/Dropbox/htdocs/nepalitimes/nepalitimes.sublime-project"
+			],
+			[
+				"if",
+				"/C/Users/suku/Dropbox/htdocs/wpifn/ifn-sublime-project.sublime-project"
+			],
+			[
+				"ifn",
+				"/C/Users/suku/Dropbox/htdocs/wpifn/ifn-sublime-project.sublime-project"
+			],
+			[
+				"roo",
+				"/C/Users/suku/Dropbox/htdocs/learn-roots/learn-roots.sublime-project"
+			],
+			[
+				"i",
+				"/C/Users/suku/Dropbox/htdocs/wpifn/ifn-sublime-project.sublime-project"
+			],
+			[
+				"l",
+				"/C/Users/suku/Dropbox/htdocs/learn-roots/learn-roots.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}

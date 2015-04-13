@@ -1,0 +1,134 @@
+/*
+Theme Name:       khabar
+Theme URI:        http://karmupro.com/theme/khabar
+Description:      Child theme for the Roots theme (http://www.rootstheme.com/)
+Author:           Pramendra Gupta
+Author URI:       http://karmupro.com/pramendra
+Template:         roots-khabar
+Version:        	1.0.0
+*/
+
+
+.page-header {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+
+
+.post-meta i {
+  margin-right: 5px;
+}
+
+.post-meta-part {
+  margin-right: 10px;
+}
+
+.comment-author img {
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+
+.more-btn {
+  display: block;
+  width: 75px;
+  margin-top: 20px;
+}
+
+.label-tag a {
+  color: #eee;
+}
+
+.label-tag a:hover {
+  text-decoration: none;
+}
+
+/* =============================================================================
+   Base
+   ========================================================================== */
+
+body { }
+
+
+
+/* =============================================================================
+   Header
+   ========================================================================== */
+
+#banner { }
+
+/* Fixed Topbar Navigation 
+body.top-navbar { padding-top: 60px; }
+*/
+body.admin-bar .navbar-fixed-top { top: 28px; }
+
+
+
+/* =============================================================================
+   Content
+   ========================================================================== */
+
+#content { }
+
+
+
+/* =============================================================================
+   Primary Content
+   ========================================================================== */
+
+#main { }
+
+
+
+/* =============================================================================
+   Sidebar
+   ========================================================================== */
+
+#sidebar { }
+
+
+
+/* =============================================================================
+   Posts
+   ========================================================================== */
+
+.hentry header { }
+.hentry time { }
+.hentry p.byline { }
+.hentry .entry-content { }
+.hentry footer { }
+
+
+
+/* =============================================================================
+   Footer
+   ========================================================================== */
+
+#content-info { }
+
+
+
+/* =============================================================================
+   WordPress Generated Classes
+   See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
+   ========================================================================== */
+
+.aligncenter { display: block; margin: 0 auto; }
+.alignleft { float: left; }
+.alignright { float: right; }
+figure.alignnone { margin-left: 0; margin-right: 0; }
+
+
+
+/* =============================================================================
+   Media Queries
+   ========================================================================== */
+
+@media (max-width: 979px) {
+  /* Fix top padding when using the responsive grid with the fixed topbar */
+  body.top-navbar {
+    padding-top: 0;
+  }
+}
